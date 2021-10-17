@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"obj_player_ship","path":"objects/obj_player_ship/obj_player_ship.yy",},"order":0,},
+    {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":3,},
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"order":1,},
     {"id":{"name":"spr_tiles","path":"sprites/spr_tiles/spr_tiles.yy",},"order":0,},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":2,},

@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_ships",
-    "path": "sprites/spr_ships/spr_ships.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -31,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_player_ship",
+  "name": "obj_camera",
   "tags": [],
   "resourceType": "GMObject",
 }
